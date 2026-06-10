@@ -1,3 +1,10 @@
+# Purpose
+A script to keep track of domestic box office and update earnings and standings.
+
+# Rules
+Each participant starts with 98 points. Every movie listed is put up for bid. Whoever bids the most for that movie gets it added to their collection. Any money that movie earns domestically (US & Canada) is added to that player's total. If the movie is delayed or canceled, their is no recourse and you eat that loss. Whoever ends the summer with the highest domestic gross is the winner.
+
+
 ## List of 2026 Films:
 * JD
 
