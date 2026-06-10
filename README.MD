@@ -87,7 +87,7 @@
 
 * Erik
 
-  ⋅ Aniaml Farm
+  ⋅ Animal Farm
 
   ⋅ Mortal Kombat II
 
@@ -114,3 +114,31 @@
   ⋅ Super Troopers 3
 
   ⋅ Insidous: Out of the Further
+
+
+
+* Nick
+
+  ⋅ That Time I Got Reincarnated as a Slime the Movie: Tears of the Azure Sea
+
+  ⋅ Mobile Suit Gundam Hathaway: The Sorcery of Nymph Circe
+
+  ⋅ The Mandalorian & Grogu
+
+  ⋅ Power Ballad
+
+  ⋅ The Death of Robin Hood
+
+  ⋅ Moana
+
+  ⋅ Evil Dead Burn
+
+  ⋅ Fall 2
+
+  ⋅ Teenage Sex and Death at Camp Miasma
+
+  ⋅ Mutiny
+
+  ⋅ Coyote vs. Acme
+
+  ⋅ The Dog Stars
