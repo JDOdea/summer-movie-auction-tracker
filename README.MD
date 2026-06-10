@@ -24,6 +24,7 @@
   ⋅ Idiots
 
 
+
 * Addie
 
   ⋅ Deep Water
@@ -47,3 +48,38 @@
   ⋅ PAW Patrol: The Dino Movie
 
   ⋅ Cliffhanger
+
+
+
+* Chris
+
+  ⋅ Horizon: An American Saga - Chapter 2
+
+  ⋅ The Devil Wears Prada 2
+
+  ⋅ Obsession
+
+  ⋅ Passenger
+
+  ⋅ Pressure
+
+  ⋅ The Breadwinner
+
+  ⋅ Disclosure Day
+
+  ⋅ UFC Freedom 250
+
+  ⋅ Toy Story 5
+
+  ⋅ Jackass 5
+
+  ⋅ The Odyssey
+
+  ⋅ I Want Your Sex
+
+  ⋅ The Rivals of Amziah King
+
+  ⋅ Spa Weekend
+
+  ⋅ Thread: An Insidious Tale
+
