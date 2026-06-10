@@ -1,3 +1,3 @@
 ## List of 2026 Films:
 * JD
-⋅⋅⋅⋅* Casa Grande: The Movie
+⋅⋅⋅ Casa Grande: The Movie
