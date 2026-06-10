@@ -10,7 +10,7 @@ Each participant starts with 98 points. Every movie listed is put up for bid. Wh
 
   ⋅ [Casa Grande: The Movie]
 
-  ⋅ [In The Grey]
+  ⋅ [In The Grey](https://www.boxofficemojo.com/title/tt27681354)
 
   ⋅ [The Furious]
 
@@ -34,13 +34,13 @@ Each participant starts with 98 points. Every movie listed is put up for bid. Wh
 
 * Addie
 
-  ⋅ [Deep Water]
+  ⋅ [Deep Water](https://www.boxofficemojo.com/title/tt29516222)
 
-  ⋅ [Hokum]
+  ⋅ [Hokum](https://www.boxofficemojo.com/title/tt35672862)
 
-  ⋅ [The Sheep Detectives]
+  ⋅ [The Sheep Detectives](https://www.boxofficemojo.com/title/tt32565993)
 
-  ⋅ [Backrooms]
+  ⋅ [Backrooms](https://www.boxofficemojo.com/title/tt26657236)
 
   ⋅ [Girls Like Girls]
 
@@ -62,15 +62,15 @@ Each participant starts with 98 points. Every movie listed is put up for bid. Wh
 
   ⋅ [Horizon: An American Saga - Chapter 2](https://www.boxofficemojo.com/title/tt27665778)
 
-  ⋅ [The Devil Wears Prada 2]
+  ⋅ [The Devil Wears Prada 2](https://www.boxofficemojo.com/title/tt33612209)
 
-  ⋅ [Obsession]
+  ⋅ [Obsession](https://www.boxofficemojo.com/title/tt37287335)
 
   ⋅ [Passenger]
 
-  ⋅ [Pressure]
+  ⋅ [Pressure](https://www.boxofficemojo.com/title/tt32547691)
 
-  ⋅ [The Breadwinner]
+  ⋅ [The Breadwinner](https://www.boxofficemojo.com/title/tt34459219)
 
   ⋅ [Disclosure Day]
 
@@ -94,15 +94,15 @@ Each participant starts with 98 points. Every movie listed is put up for bid. Wh
 
 * Erik
 
-  ⋅ [Animal Farm]
+  ⋅ [Animal Farm](https://www.boxofficemojo.com/title/tt2467700)
 
-  ⋅ [Mortal Kombat II]
+  ⋅ [Mortal Kombat II](https://www.boxofficemojo.com/title/tt17490712)
 
-  ⋅ [Billie Eilish: Hit Me Hard and Soft - The Tour]
+  ⋅ [Billie Eilish: Hit Me Hard and Soft - The Tour](https://www.boxofficemojo.com/title/tt39018643)
 
-  ⋅ [Is God Is]
+  ⋅ [Is God Is](https://www.boxofficemojo.com/title/tt34379307)
 
-  ⋅ [I Love Boosters]
+  ⋅ [I Love Boosters](https://www.boxofficemojo.com/title/tt30827810)
 
   ⋅ [Tuner]
 
@@ -130,9 +130,9 @@ Each participant starts with 98 points. Every movie listed is put up for bid. Wh
 
   ⋅ [Mobile Suit Gundam Hathaway: The Sorcery of Nymph Circe]
 
-  ⋅ [The Mandalorian & Grogu]
+  ⋅ [The Mandalorian & Grogu](https://www.boxofficemojo.com/title/tt30825738)
 
-  ⋅ [Power Ballad]
+  ⋅ [Power Ballad](https://www.boxofficemojo.com/title/tt32267691)
 
   ⋅ [The Death of Robin Hood]
 
