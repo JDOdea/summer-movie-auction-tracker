@@ -8,144 +8,144 @@ Each participant starts with 98 points. Every movie listed is put up for bid. Wh
 ## List of 2026 Films:
 * JD
 
-  ⋅ Casa Grande: The Movie
+  ⋅ [Casa Grande: The Movie]
 
-  ⋅ In The Grey
+  ⋅ [In The Grey]
 
-  ⋅ The Furious
+  ⋅ [The Furious]
 
-  ⋅ Supergirl
+  ⋅ [Supergirl]
 
-  ⋅ The Invite
+  ⋅ [The Invite]
 
-  ⋅ Minions & Monsters
+  ⋅ [Minions & Monsters]
 
-  ⋅ Spider-Man: Brand New Day
+  ⋅ [Spider-Man: Brand New Day]
 
-  ⋅ One Night Only
+  ⋅ [One Night Only]
 
-  ⋅ The Magic Faraway Tree
+  ⋅ [The Magic Faraway Tree]
 
-  ⋅ Finding Emily
+  ⋅ [Finding Emily]
 
-  ⋅ Idiots
+  ⋅ [Idiots]
 
 
 
 * Addie
 
-  ⋅ Deep Water
+  ⋅ [Deep Water]
 
-  ⋅ Hokum
+  ⋅ [Hokum]
 
-  ⋅ The Sheep Detectives
+  ⋅ [The Sheep Detectives]
 
-  ⋅ Backrooms
+  ⋅ [Backrooms]
 
-  ⋅ Girls Like Girls
+  ⋅ [Girls Like Girls]
 
-  ⋅ Thrash
+  ⋅ [Thrash]
 
-  ⋅ Untitled Neon Horror Film
+  ⋅ [Untitled Neon Horror Film]
 
-  ⋅ Ice Cream Man
+  ⋅ [Ice Cream Man]
 
-  ⋅ The End of Oak Street
+  ⋅ [The End of Oak Street]
 
-  ⋅ PAW Patrol: The Dino Movie
+  ⋅ [PAW Patrol: The Dino Movie]
 
-  ⋅ Cliffhanger
+  ⋅ [Cliffhanger]
 
 
 
 * Chris
 
-  ⋅ Horizon: An American Saga - Chapter 2
+  ⋅ [Horizon: An American Saga - Chapter 2](https://www.boxofficemojo.com/title/tt27665778)
 
-  ⋅ The Devil Wears Prada 2
+  ⋅ [The Devil Wears Prada 2]
 
-  ⋅ Obsession
+  ⋅ [Obsession]
 
-  ⋅ Passenger
+  ⋅ [Passenger]
 
-  ⋅ Pressure
+  ⋅ [Pressure]
 
-  ⋅ The Breadwinner
+  ⋅ [The Breadwinner]
 
-  ⋅ Disclosure Day
+  ⋅ [Disclosure Day]
 
-  ⋅ UFC Freedom 250
+  ⋅ [UFC Freedom 250]
 
-  ⋅ Toy Story 5
+  ⋅ [Toy Story 5]
 
-  ⋅ Jackass 5
+  ⋅ [Jackass 5]
 
-  ⋅ The Odyssey
+  ⋅ [The Odyssey]
 
-  ⋅ I Want Your Sex
+  ⋅ [I Want Your Sex]
 
-  ⋅ The Rivals of Amziah King
+  ⋅ [The Rivals of Amziah King]
 
-  ⋅ Spa Weekend
+  ⋅ [Spa Weekend]
 
-  ⋅ Thread: An Insidious Tale
+  ⋅ [Thread: An Insidious Tale]
 
 
 
 * Erik
 
-  ⋅ Animal Farm
+  ⋅ [Animal Farm]
 
-  ⋅ Mortal Kombat II
+  ⋅ [Mortal Kombat II]
 
-  ⋅ Billie Eilish: Hit Me Hard and Soft - The Tour
+  ⋅ [Billie Eilish: Hit Me Hard and Soft - The Tour]
 
-  ⋅ Is God Is
+  ⋅ [Is God Is]
 
-  ⋅ I Love Boosters
+  ⋅ [I Love Boosters]
 
-  ⋅ Tuner
+  ⋅ [Tuner]
 
-  ⋅ Masters of the Universe
+  ⋅ [Masters of the Universe]
 
-  ⋅ Scary Movie 6
+  ⋅ [Scary Movie 6]
 
-  ⋅ Stop! That! Train!
+  ⋅ [Stop! That! Train!]
 
-  ⋅ Young Washington
+  ⋅ [Young Washington]
 
-  ⋅ Gail Daughtry and the Celebrity Sex Pass
+  ⋅ [Gail Daughtry and the Celebrity Sex Pass]
 
-  ⋅ Cut Off
+  ⋅ [Cut Off]
 
-  ⋅ Super Troopers 3
+  ⋅ [Super Troopers 3]
 
-  ⋅ Insidous: Out of the Further
+  ⋅ [Insidous: Out of the Further]
 
 
 
 * Nick
 
-  ⋅ That Time I Got Reincarnated as a Slime the Movie: Tears of the Azure Sea
+  ⋅ [That Time I Got Reincarnated as a Slime the Movie: Tears of the Azure Sea]
 
-  ⋅ Mobile Suit Gundam Hathaway: The Sorcery of Nymph Circe
+  ⋅ [Mobile Suit Gundam Hathaway: The Sorcery of Nymph Circe]
 
-  ⋅ The Mandalorian & Grogu
+  ⋅ [The Mandalorian & Grogu]
 
-  ⋅ Power Ballad
+  ⋅ [Power Ballad]
 
-  ⋅ The Death of Robin Hood
+  ⋅ [The Death of Robin Hood]
 
-  ⋅ Moana
+  ⋅ [Moana]
 
-  ⋅ Evil Dead Burn
+  ⋅ [Evil Dead Burn]
 
-  ⋅ Fall 2
+  ⋅ [Fall 2]
 
-  ⋅ Teenage Sex and Death at Camp Miasma
+  ⋅ [Teenage Sex and Death at Camp Miasma]
 
-  ⋅ Mutiny
+  ⋅ [Mutiny]
 
-  ⋅ Coyote vs. Acme
+  ⋅ [Coyote vs. Acme]
 
-  ⋅ The Dog Stars
+  ⋅ [The Dog Stars]
