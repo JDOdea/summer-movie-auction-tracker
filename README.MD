@@ -8,27 +8,27 @@ Each participant starts with 98 points. Every movie listed is put up for bid. Wh
 ## List of 2026 Films:
 * JD
 
-  ⋅ [Casa Grande: The Movie]
+  ⋅ [Casa Grande: The Movie](https://www.boxofficemojo.com/title/tt35887288)
 
   ⋅ [In The Grey](https://www.boxofficemojo.com/title/tt27681354)
 
-  ⋅ [The Furious]
+  ⋅ [The Furious](https://www.boxofficemojo.com/title/tt33311069)
 
-  ⋅ [Supergirl]
+  ⋅ [Supergirl](https://www.boxofficemojo.com/title/tt8814476)
 
-  ⋅ [The Invite]
+  ⋅ [The Invite](https://www.boxofficemojo.com/title/tt14173636)
 
-  ⋅ [Minions & Monsters]
+  ⋅ [Minions & Monsters](https://www.boxofficemojo.com/title/tt32890033)
 
-  ⋅ [Spider-Man: Brand New Day]
+  ⋅ [Spider-Man: Brand New Day](https://www.boxofficemojo.com/title/tt22084616)
 
-  ⋅ [One Night Only]
+  ⋅ [One Night Only](https://www.boxofficemojo.com/title/tt37855492)
 
-  ⋅ [The Magic Faraway Tree]
+  ⋅ [The Magic Faraway Tree](https://www.boxofficemojo.com/title/tt7734244)
 
-  ⋅ [Finding Emily]
+  ⋅ [Finding Emily](https://www.boxofficemojo.com/title/tt32499466)
 
-  ⋅ [Idiots]
+  ⋅ [Idiots](https://www.boxofficemojo.com/title/tt6628920)
 
 
 
@@ -42,19 +42,19 @@ Each participant starts with 98 points. Every movie listed is put up for bid. Wh
 
   ⋅ [Backrooms](https://www.boxofficemojo.com/title/tt26657236)
 
-  ⋅ [Girls Like Girls]
+  ⋅ [Girls Like Girls](https://www.boxofficemojo.com/title/tt32432654)
 
-  ⋅ [Thrash]
+  ⋅ [Thrash](https://www.boxofficemojo.com/title/tt32362890)
 
-  ⋅ [Untitled Neon Horror Film]
+  ⋅ Untitled Neon Horror Film
 
-  ⋅ [Ice Cream Man]
+  ⋅ [Ice Cream Man](https://www.boxofficemojo.com/title/tt36893729)
 
-  ⋅ [The End of Oak Street]
+  ⋅ [The End of Oak Street](https://www.boxofficemojo.com/title/tt27165187)
 
-  ⋅ [PAW Patrol: The Dino Movie]
+  ⋅ [PAW Patrol: The Dino Movie](https://www.boxofficemojo.com/title/tt29356163)
 
-  ⋅ [Cliffhanger]
+  ⋅ [Cliffhanger](https://www.boxofficemojo.com/title/tt1441251)
 
 
 
@@ -66,29 +66,29 @@ Each participant starts with 98 points. Every movie listed is put up for bid. Wh
 
   ⋅ [Obsession](https://www.boxofficemojo.com/title/tt37287335)
 
-  ⋅ [Passenger]
+  ⋅ [Passenger](https://www.boxofficemojo.com/title/tt33763941)
 
   ⋅ [Pressure](https://www.boxofficemojo.com/title/tt32547691)
 
   ⋅ [The Breadwinner](https://www.boxofficemojo.com/title/tt34459219)
 
-  ⋅ [Disclosure Day]
+  ⋅ [Disclosure Day](https://www.boxofficemojo.com/title/tt15047880)
 
-  ⋅ [UFC Freedom 250]
+  ⋅ [UFC Freedom 250](https://www.boxofficemojo.com/title/tt40793127)
 
-  ⋅ [Toy Story 5]
+  ⋅ [Toy Story 5](https://www.boxofficemojo.com/title/tt29355505)
 
-  ⋅ [Jackass 5]
+  ⋅ [Jackass 5](https://www.boxofficemojo.com/title/tt39316472)
 
-  ⋅ [The Odyssey]
+  ⋅ [The Odyssey](https://www.boxofficemojo.com/title/tt33764258)
 
-  ⋅ [I Want Your Sex]
+  ⋅ I Want Your Sex
 
-  ⋅ [The Rivals of Amziah King]
+  ⋅ [The Rivals of Amziah King](https://www.boxofficemojo.com/title/tt27706593)
 
-  ⋅ [Spa Weekend]
+  ⋅ [Spa Weekend](https://www.boxofficemojo.com/title/tt33305867)
 
-  ⋅ [Thread: An Insidious Tale]
+  ⋅ Thread: An Insidious Tale
 
 
 
@@ -104,48 +104,48 @@ Each participant starts with 98 points. Every movie listed is put up for bid. Wh
 
   ⋅ [I Love Boosters](https://www.boxofficemojo.com/title/tt30827810)
 
-  ⋅ [Tuner]
+  ⋅ [Tuner](https://www.boxofficemojo.com/title/tt33296751)
 
-  ⋅ [Masters of the Universe]
+  ⋅ [Masters of the Universe](https://www.boxofficemojo.com/title/tt0427340)
 
-  ⋅ [Scary Movie 6]
+  ⋅ [Scary Movie 6](https://www.boxofficemojo.com/title/tt32093575)
 
-  ⋅ [Stop! That! Train!]
+  ⋅ [Stop! That! Train!](https://www.boxofficemojo.com/title/tt38128726)
 
-  ⋅ [Young Washington]
+  ⋅ [Young Washington](https://www.boxofficemojo.com/title/tt32104007)
 
-  ⋅ [Gail Daughtry and the Celebrity Sex Pass]
+  ⋅ Gail Daughtry and the Celebrity Sex Pass
 
-  ⋅ [Cut Off]
+  ⋅ [Cut Off](https://www.boxofficemojo.com/title/tt36246412)
 
-  ⋅ [Super Troopers 3]
+  ⋅ [Super Troopers 3](https://www.boxofficemojo.com/title/tt8820258)
 
-  ⋅ [Insidous: Out of the Further]
+  ⋅ [Insidous: Out of the Further](https://www.boxofficemojo.com/title/tt32393988)
 
 
 
 * Nick
 
-  ⋅ [That Time I Got Reincarnated as a Slime the Movie: Tears of the Azure Sea]
+  ⋅ [That Time I Got Reincarnated as a Slime the Movie: Tears of the Azure Sea](https://www.boxofficemojo.com/title/tt38650409)
 
-  ⋅ [Mobile Suit Gundam Hathaway: The Sorcery of Nymph Circe]
+  ⋅ [Mobile Suit Gundam Hathaway: The Sorcery of Nymph Circe](https://www.boxofficemojo.com/title/tt32915652/)
 
   ⋅ [The Mandalorian & Grogu](https://www.boxofficemojo.com/title/tt30825738)
 
   ⋅ [Power Ballad](https://www.boxofficemojo.com/title/tt32267691)
 
-  ⋅ [The Death of Robin Hood]
+  ⋅ [The Death of Robin Hood](https://www.boxofficemojo.com/title/tt32273171)
 
-  ⋅ [Moana]
+  ⋅ [Moana](https://www.boxofficemojo.com/title/tt27419466)
 
-  ⋅ [Evil Dead Burn]
+  ⋅ [Evil Dead Burn](https://www.boxofficemojo.com/title/tt31170389)
 
-  ⋅ [Fall 2]
+  ⋅ Fall 2
 
-  ⋅ [Teenage Sex and Death at Camp Miasma]
+  ⋅ [Teenage Sex and Death at Camp Miasma](https://www.boxofficemojo.com/title/tt35298123)
 
-  ⋅ [Mutiny]
+  ⋅ [Mutiny](https://www.boxofficemojo.com/title/tt32338669)
 
-  ⋅ [Coyote vs. Acme]
+  ⋅ [Coyote vs. Acme](https://www.boxofficemojo.com/title/tt1756855)
 
-  ⋅ [The Dog Stars]
+  ⋅ [The Dog Stars](https://www.boxofficemojo.com/title/tt21285562)
