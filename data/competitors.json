@@ -1,3 +1,29 @@
 {
-    "competitors": []
+    "competitors": [
+        {
+            "id": 1,
+            "name": "JD",
+            "movies": []
+        },
+        {
+            "id": 2,
+            "name": "Addie",
+            "movies": []
+        },
+        {
+            "id": 3,
+            "name": "Chris",
+            "movies": []
+        },
+        {
+            "id": 4,
+            "name": "Erik",
+            "movies": []
+        },
+        {
+            "id": 5,
+            "name": "Nick",
+            "movies": []
+        }
+    ]
 }
