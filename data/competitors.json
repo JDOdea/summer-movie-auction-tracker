@@ -15,7 +15,9 @@
                 "The Magic Faraway Tree",
                 "Finding Emily",
                 "Idiots"
-            ]
+            ],
+            "leftover_money": 3,
+            "total": 5723890
         },
         {
             "id": 2,
@@ -31,7 +33,9 @@
                 "The End of Oak Street",
                 "PAW Patrol: The Dino Movie",
                 "Cliffhanger"
-            ]
+            ],
+            "leftover_money": 9,
+            "total": 215737048
         },
         {
             "id": 3,
@@ -52,7 +56,9 @@
                 "The Rivals of Amziah King",
                 "Spa Weekend",
                 "Thread: An Insidious Tale"
-            ]
+            ],
+            "leftover_money": 0,
+            "total": 409524157
         },
         {
             "id": 4,
@@ -72,7 +78,9 @@
                 "Cut Off",
                 "Super Troopers 3",
                 "Insidious: Out of the Further"
-            ]
+            ],
+            "leftover_money": 1,
+            "total": 194880565
         },
         {
             "id": 5,
@@ -90,7 +98,9 @@
                 "Mutiny",
                 "Coyote vs. Acme",
                 "The Dog Stars"
-            ]
+            ],
+            "leftover_money": 0,
+            "total": 159952719
         }
     ]
 }
