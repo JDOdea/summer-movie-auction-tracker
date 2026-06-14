@@ -4,17 +4,50 @@
             "id": 1,
             "name": "JD",
             "movies": [
-                "Casa Grande: The Movie",
-                "In The Grey",
-                "The Furious",
-                "Supergirl",
-                "The Invite",
-                "Minions & Monsters",
-                "Spider-Man: Brand New Day",
-                "One Night Only",
-                "The Magic Faraway Tree",
-                "Finding Emily",
-                "Idiots"
+                {
+                    "title": "Casa Grande: The Movie",
+                    "box_office": 0
+                },
+                {
+                    "title": "In The Grey",
+                    "box_office": 0
+                },
+                {
+                    "title": "The Furious",
+                    "box_office": 0
+                },
+                {
+                    "title": "Supergirl",
+                    "box_office": 0
+                },
+                {
+                    "title": "The Invite",
+                    "box_office": 0
+                },
+                {
+                    "title": "Minions & Monsters",
+                    "box_office": 0
+                },
+                {
+                    "title": "Spider-Man: Brand New Day",
+                    "box_office": 0
+                },
+                {
+                    "title": "One Night Only",
+                    "box_office": 0
+                },
+                {
+                    "title": "The Magic Faraway Tree",
+                    "box_office": 0
+                },
+                {
+                    "title": "Finding Emily",
+                    "box_office": 0
+                },
+                {
+                    "title": "Idiots",
+                    "box_office": 0
+                }
             ],
             "leftover_money": 3,
             "total": 5723890
@@ -23,16 +56,46 @@
             "id": 2,
             "name": "Addie",
             "movies": [
-                "Deep Water",
-                "Hokum",
-                "The Sheep Detectives",
-                "Backrooms",
-                "Girls Like Girls",
-                "Thrash",
-                "Ice Cream Man",
-                "The End of Oak Street",
-                "PAW Patrol: The Dino Movie",
-                "Cliffhanger"
+                {
+                    "title": "Deep Water",
+                    "box_office": 0
+                },
+                {
+                    "title": "Hokum",
+                    "box_office": 0
+                },
+                {
+                    "title": "The Sheep Detectives",
+                    "box_office": 0
+                },
+                {
+                    "title": "Backrooms",
+                    "box_office": 0
+                },
+                {
+                    "title": "Girls Like Girls",
+                    "box_office": 0
+                },
+                {
+                    "title": "Thrash",
+                    "box_office": 0
+                },
+                {
+                    "title": "Ice Cream Man",
+                    "box_office": 0
+                },
+                {
+                    "title": "The End of Oak Street",
+                    "box_office": 0
+                },
+                {
+                    "title": "PAW Patrol: The Dino Movie",
+                    "box_office": 0
+                },
+                {
+                    "title": "Cliffhanger",
+                    "box_office": 0
+                }
             ],
             "leftover_money": 9,
             "total": 215737048
@@ -41,21 +104,66 @@
             "id": 3,
             "name": "Chris",
             "movies": [
-                "Horizon: An American Saga - Chapter 2",
-                "The Devil Wears Prada 2",
-                "Obsession",
-                "Passenger",
-                "Pressure",
-                "The Breadwinner",
-                "Disclosure Day",
-                "UFC Freedom 250",
-                "Toy Story 5",
-                "Jackass 5",
-                "The Odyssey",
-                "I Want Your Sex",
-                "The Rivals of Amziah King",
-                "Spa Weekend",
-                "Thread: An Insidious Tale"
+                {
+                    "title": "Horizon: An American Saga - Chapter 2",
+                    "box_office": 0
+                },
+                {
+                    "title": "The Devil Wears Prada 2",
+                    "box_office": 0
+                },
+                {
+                    "title": "Obsession",
+                    "box_office": 0
+                },
+                {
+                    "title": "Passenger",
+                    "box_office": 0
+                },
+                {
+                    "title": "Pressure",
+                    "box_office": 0
+                },
+                {
+                    "title": "The Breadwinner",
+                    "box_office": 0
+                },
+                {
+                    "title": "Disclosure Day",
+                    "box_office": 0
+                },
+                {
+                    "title": "UFC Freedom 250",
+                    "box_office": 0
+                },
+                {
+                    "title": "Toy Story 5",
+                    "box_office": 0
+                },
+                {
+                    "title": "Jackass 5",
+                    "box_office": 0
+                },
+                {
+                    "title": "The Odyssey",
+                    "box_office": 0
+                },
+                {
+                    "title": "I Want Your Sex",
+                    "box_office": 0
+                },
+                {
+                    "title": "The Rivals of Amziah King",
+                    "box_office": 0
+                },
+                {
+                    "title": "Spa Weekend",
+                    "box_office": 0
+                },
+                {
+                    "title": "Thread: An Insidious Tale",
+                    "box_office": 0
+                }
             ],
             "leftover_money": 0,
             "total": 409524157
@@ -64,20 +172,62 @@
             "id": 4,
             "name": "Erik",
             "movies": [
-                "Animal Farm",
-                "Mortal Kombat: II",
-                "Billie Eilish: Hit Me Hard and Soft - The Tour",
-                "Is God Is",
-                "I Love Boosters",
-                "Tuner",
-                "Masters of the Universe",
-                "Scary Movie 6",
-                "Stop! That! Train!",
-                "Young Washington",
-                "Gail Daughtry and the Celebrity Sex Pass",
-                "Cut Off",
-                "Super Troopers 3",
-                "Insidious: Out of the Further"
+                {
+                    "title": "Animal Farm",
+                    "box_office": 0
+                },
+                {
+                    "title": "Mortal Kombat: II",
+                    "box_office": 0
+                },
+                {
+                    "title": "Billie Eilish: Hit Me Hard and Soft - The Tour",
+                    "box_office": 0
+                },
+                {
+                    "title": "Is God Is",
+                    "box_office": 0
+                },
+                {
+                    "title": "I Love Boosters",
+                    "box_office": 0
+                },
+                {
+                    "title": "Tuner",
+                    "box_office": 0
+                },
+                {
+                    "title": "Masters of the Universe",
+                    "box_office": 0
+                },
+                {
+                    "title": "Scary Movie 6",
+                    "box_office": 0
+                },
+                {
+                    "title": "Stop! That! Train!",
+                    "box_office": 0
+                },
+                {
+                    "title": "Young Washington",
+                    "box_office": 0
+                },
+                {
+                    "title": "Gail Daughtry and the Celebrity Sex Pass",
+                    "box_office": 0
+                },
+                {
+                    "title": "Cut Off",
+                    "box_office": 0
+                },
+                {
+                    "title": "Super Troopers 3",
+                    "box_office": 0
+                },
+                {
+                    "title": "Insidious: Out of the Further",
+                    "box_office": 0
+                }
             ],
             "leftover_money": 1,
             "total": 194880565
@@ -86,18 +236,54 @@
             "id": 5,
             "name": "Nick",
             "movies": [
-                "That Time I Got Reincarnated as a Slime the Movie: Tears of the Azure Sea",
-                "Mobile Suit Gundam Hathaway: The Sorcery of Nymph Circe",
-                "The Mandalorian & Grogu",
-                "Power Ballad",
-                "The Death of Robin Hood",
-                "Moana",
-                "Evil Dead Burn",
-                "Fall 2",
-                "Teenage Sex and Death at Camp Miasma",
-                "Mutiny",
-                "Coyote vs. Acme",
-                "The Dog Stars"
+                {
+                    "title": "That Time I Got Reincarnated as a Slime the Movie: Tears of the Azure Sea",
+                    "box_office": 0
+                },
+                {
+                    "title": "Mobile Suit Gundam Hathaway: The Sorcery of Nymph Circe",
+                    "box_office": 0
+                },
+                {
+                    "title": "The Mandalorian & Grogu",
+                    "box_office": 0
+                },
+                {
+                    "title": "Power Ballad",
+                    "box_office": 0
+                },
+                {
+                    "title": "The Death of Robin Hood",
+                    "box_office": 0
+                },
+                {
+                    "title": "Moana",
+                    "box_office": 0
+                },
+                {
+                    "title": "Evil Dead Burn",
+                    "box_office": 0
+                },
+                {
+                    "title": "Fall 2",
+                    "box_office": 0
+                },
+                {
+                    "title": "Teenage Sex and Death at Camp Miasma",
+                    "box_office": 0
+                },
+                {
+                    "title": "Mutiny",
+                    "box_office": 0
+                },
+                {
+                    "title": "Coyote vs. Acme",
+                    "box_office": 0
+                },
+                {
+                    "title": "The Dog Stars",
+                    "box_office": 0
+                }
             ],
             "leftover_money": 0,
             "total": 159952719
